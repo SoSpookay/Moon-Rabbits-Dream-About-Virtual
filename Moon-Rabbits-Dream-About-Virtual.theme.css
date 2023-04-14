@@ -93,8 +93,8 @@
     --round-corners: 16px;
 }
 
-:root {
-  --text-color: #fd6da0;
+.theme-dark {
+  --text-positive: #fd6da0;
 }
 
 /* Selection text color */
