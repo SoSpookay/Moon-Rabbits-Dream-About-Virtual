@@ -81,7 +81,7 @@
 
     /* Chatbar Colors */
     --channeltextarea-background: #fd6da0;
-    --text-color: #e39ba7;
+    --text-color: #54b5de;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
