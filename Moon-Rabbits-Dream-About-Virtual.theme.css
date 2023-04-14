@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -80,8 +80,8 @@
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --channeltextarea-background: #fd6da0;
+    --text-color: #e39ba7;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
