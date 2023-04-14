@@ -80,6 +80,9 @@
     --offline-color: #707070;
     --streaming-color: #f066f0;
 
+   /* Text Color */
+   --text-color: #fd6da0;
+   
     /* Chatbar Colors */
     --channeltextarea-background: #e8c4d3;
     --text-color: #fd6da0;
@@ -101,5 +104,5 @@
 
 /*------------------------------------------------------
                 anything else down here
-   i am new to doing stuff like this it is werid lol
+  I am new to doing stuff like this so I have no idea what im doing
 ------------------------------------------------------*/
